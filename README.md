@@ -6,7 +6,6 @@
 - [Pages in the MVP](#pages-in-the-mvp)
 - [Getting Started](#getting-started-for-beginners)
 - [How to Contribute](#how-to-contribute)
-- [Good First Tasks](#good-first-tasks)
 - [Community and Help](#community-and-help)
 - [Project Maintainers](#project-maintainers)
 - [WOCS Mentors](#wocs-mentors)
