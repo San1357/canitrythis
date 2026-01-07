@@ -13,7 +13,7 @@
 - [Code of Conduct](#code-of-conduct)
 - [Support the Project](#support-the-project)
 
-# 🎯 Can I Try This? – Real Challenges, Real Skills
+# Can I Try This? – Real Challenges, Real Skills
 
 Welcome to **Can I Try This?**, a fun and beginner-friendly platform where you can explore **real-world challenges** in design, development, writing, data, and more. These aren't just made-up exercises. They come from real tasks, community submissions, and partner projects.
 
@@ -21,7 +21,7 @@ Welcome to **Can I Try This?**, a fun and beginner-friendly platform where you c
 
 ---
 
-## 🌟 What Can You Do Here?
+## What Can You Do Here?
 
 ✨ **Explore Real Challenges**  
 Browse challenges by domain, level, or tag. New to design? Try making a social media post. Learning SQL? Analyze a real dataset. You’ll find:
@@ -57,7 +57,7 @@ Built something cool or faced a real-world task? Submit it as a challenge for ot
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 | Part     | Tech Used                           |
 | -------- | ----------------------------------- |
@@ -69,7 +69,7 @@ Built something cool or faced a real-world task? Submit it as a challenge for ot
 
 ---
 
-## 🧑‍💻 Pages in the MVP
+## Pages in the MVP
 
 1. **Home** – Quick intro, trending challenges, how it works
 2. **Challenge Board** – Filterable/searchable list of challenges, Full info + submit your response button
@@ -80,7 +80,7 @@ Built something cool or faced a real-world task? Submit it as a challenge for ot
 
 ---
 
-## 🚀 Getting Started (For Beginners)
+## Getting Started (For Beginners)
 
 ### 📦 Prerequisites
 
@@ -97,7 +97,7 @@ npm install
 npm start
 ```
 
-## 🌱 How to Contribute
+## How to Contribute
 
 We welcome beginners and first-time contributors!
 
@@ -110,7 +110,7 @@ We welcome beginners and first-time contributors!
 5. Make your changes
 6. Create a pull request – we’ll review and support you
 
-### 🛠️ Good First Tasks
+### Good First Tasks
 
 - Build a challenge card component
 - Add domain filter buttons
@@ -120,7 +120,7 @@ We welcome beginners and first-time contributors!
 
 ---
 
-## 💬 Community and Help
+## Community and Help
 
 <p>
   <a href="https://discord.gg/MSTNyRSPYW" target="_blank">
@@ -136,7 +136,7 @@ We welcome beginners and first-time contributors!
 
 ---
 
-## ✨ Project Maintainers
+## Project Maintainers
 
 <table>
   <tr>
@@ -159,7 +159,7 @@ We welcome beginners and first-time contributors!
 
 ---
 
-## ✨ WOCS Mentors
+## WOCS Mentors
 
 <table>
   <tr>
@@ -182,13 +182,13 @@ We welcome beginners and first-time contributors!
 
 ---
 
-## ❤️ Code of Conduct
+## Code of Conduct
 
 Be curious, kind, and constructive. Feedback is a gift.
 
 ---
 
-## ⭐ Support the Project
+## Support the Project
 
 Star this repo if you like the idea. Share with friends.
 Let’s build the chillest skill-building community on the internet. 🌱
