@@ -68,6 +68,8 @@ Built something cool or faced a real-world task? Submit it as a challenge for ot
 
 ---
 
+<a id="-pages-in-the-mvp"></a>
+
 ## 🧑‍💻 Pages in the MVP
 
 1. **Home** – Quick intro, trending challenges, how it works
@@ -180,6 +182,8 @@ We welcome beginners and first-time contributors!
 </table>
 
 ---
+
+<a id="-code-of-conduct"></a>
 
 ## ❤️ Code of Conduct
 
